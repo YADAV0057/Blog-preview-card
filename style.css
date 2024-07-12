@@ -45,15 +45,18 @@ body {
   flex-direction: column;
   color: #121212;
 }
+.cat{
+    background-color: #f4d04e;
+    font-size: 14px;
+    font-weight: 800;
+    width: 82px;
+    border-radius: 5px;
+  }
+  .learn{
+    margin: 4px 12px;
+  }
 
-#highlight {
-  background-color: #f4d04e;
-  display: inline-block;
-  padding: 3px 5px;
-  font-weight: bold;
-  font-size: 15px;
-  border-radius: 5px;
-}
+
 
 .text2 {
 
